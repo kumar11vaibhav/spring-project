@@ -1,0 +1,8 @@
+com\app\config\BeanConfiguration.class
+com\app\models\Vehicle.class
+com\app\SpringProjectApplication.class
+com\app\repository\VehicleRepository.class
+com\app\controllers\VehiclesController.class
+com\app\interfaces\I_VehicleService.class
+com\app\constants\VehiclesControllerConstants.class
+com\app\service\VehicleService.class
